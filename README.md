@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 # fast-react-pizza-app
 # The-React-Quiz-App
 # fast-react-pizza-app
+# fast-react-pizza-app
